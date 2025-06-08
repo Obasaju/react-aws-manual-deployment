@@ -18,7 +18,7 @@ This project demonstrates the manual deployment of a React app using the AWS Man
 
 4. Configured CloudFront distribution pointing to the S3 static website endpoint.
 
-[Public URL] (https://d5gw37h97zlsb.cloudfront.net)
+**[Public URL]** (https://d5gw37h97zlsb.cloudfront.net)
 
 | Service                     | Screenshot                                  |
 | --------------------------- | ------------------------------------------- |
